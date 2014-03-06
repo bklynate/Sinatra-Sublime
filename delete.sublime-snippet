@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-delete '/' do
-	$0
+delete '/$0' do
+	
 end
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
